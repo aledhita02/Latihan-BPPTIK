@@ -1,0 +1,50 @@
+[
+    [
+        "12345678910",
+        "Alessandro Pramudhita Putra Setyawan",
+        "Jl.Chemco Raya Blok L6",
+        "Senin",
+        "2023-07-29",
+        "PWK",
+        "6",
+        "100000",
+        {
+            "totalHarga": 600000,
+            "diskon": 30000,
+            "diskon_rupiah": "Rp 30.000"
+        },
+        "Rp 570.000"
+    ],
+    [
+        "0987654321",
+        "Okta Setyawan",
+        "Jl.Chemco Barat Blok M",
+        "Selasa",
+        "2023-07-28",
+        "PWO",
+        "4",
+        "150000",
+        {
+            "totalHarga": 600000,
+            "diskon": 0,
+            "diskon_rupiah": "Rp 0"
+        },
+        "Rp 600.000"
+    ],
+    [
+        "112233445566",
+        "C. Advenda Shapire",
+        "Jl.Ciliwung Raya Blok N",
+        "Kamis",
+        "2023-07-12",
+        "JGJ",
+        "10",
+        "200000",
+        {
+            "totalHarga": 2000000,
+            "diskon": 160000,
+            "diskon_rupiah": "Rp 160.000"
+        },
+        "Rp 1.840.000"
+    ]
+]
